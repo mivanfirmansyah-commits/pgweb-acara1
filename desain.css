@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(0, 87, 52);
+    text-align: center;
+}
+
+h2 {
+    color: #026b13;
+    text-align: center;
+}
+
+h4 {
+    background-color: rgb(247, 218, 255);
+    padding: 10px;
+}
+
+#p1 {
+    text-align: justify;
+    text-indent: 10pt;
+    color: red;
+}
+
+.p1 {
+    text-align: justify;
+    text-indent: 20pt;
+    color: brown;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
